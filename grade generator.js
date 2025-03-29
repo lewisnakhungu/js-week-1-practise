@@ -17,4 +17,7 @@ function inputStudentMarks (marks){
 
 }
 
-console.log(inputStudentMarks(39))
+console.log(inputStudentMarks(90))
+
+
+
